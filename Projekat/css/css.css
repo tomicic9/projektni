@@ -1,0 +1,222 @@
+.forma{
+    color: white;
+    
+}
+
+.boze{
+    display: inline-block;
+    text-decoration: none;
+    max-width: 100%;
+
+
+}
+.boze1{
+    display: inline-block;
+    text-decoration: none;
+    max-width: 100%;
+
+}
+.boze2{
+    display: inline-block;
+    max-width: 100%;
+    text-decoration: none;
+    
+
+    
+}
+.texx1{
+    color: white;
+    display: block;
+    text-align: center;
+}
+.texx2{
+    color: white;
+    display: block;
+    text-align: center;
+}
+.texx3{
+    color: white;
+    display: block;
+    text-align: center;
+}
+.slika0{
+    width: 180px;
+    height: 121px;
+    max-width: 100%;
+}
+.slika01{
+    width: 180px;
+    height: 121px;
+    max-width: 100%;
+}
+.slika02{
+    width: 180px;
+    height: 121px;
+    max-width: 100%;
+}
+.slika{
+    width: 1300px;
+    height: 500px;
+    max-width: 100%;
+}
+.kontejner{
+    text-align: center;
+}
+.dugme{
+border:1px solid silver;
+color:black;
+background-color:white;
+text-decoration: none;
+font-weight: bold;
+padding:5px 20px;
+max-width: 100%;
+
+}
+
+.dugme:hover{
+border:1px dashed red;
+background-color: silver;
+color:blue;
+}
+
+body{
+background-color:black;
+}
+.pseudo:hover{
+border: 1px solid white;
+color: white;
+padding: 2px;
+background-color: tomato;
+
+}
+nav ul {
+list-style: none;
+text-align: center;
+
+}
+nav ul li {
+display: inline-block;
+}
+nav ul li a{
+text-decoration: none;
+color: white;
+}
+.prvi{
+width: 150px;
+height: 20px;
+border-radius: 50px;
+background-color: gray;
+position:relative;
+text-align: center;
+border: 2px solid white;
+animation-name: animacija ;
+animation-duration: 5s;
+
+}
+@keyframes animacija {
+from{ background-color: gray;}
+to{background-color: darkorange;}
+
+}
+@media screen and (max-width:480px) 
+{}
+      
+
+
+.centriranje{
+text-align: center;
+}
+.dugme1{
+text-align: center;
+}
+.pocetni{
+color:white;
+text-align: center;
+font-size: 15px;
+}
+
+.filter{
+color: white;
+font-size: 20px;
+text-align: center;
+}
+.polja {
+color: white;
+text-align: center;
+}
+.polja p{
+display: inline-block;
+}
+.primjeni{
+text-align: center;
+color: white;
+}
+
+
+nav ul {
+list-style: none;
+text-align: center;
+}
+nav ul li {
+display: inline-block;
+}
+nav ul li a{
+text-decoration: none;
+color: white;
+}
+
+.polja {
+color: white;
+text-align: center;
+}
+.polja p{
+display: inline-block;
+}
+.primjeni{
+text-align: center;
+color: white;
+}
+
+
+
+.mapa{
+width: 1330px;
+height: 500px;
+margin:auto
+}
+.parag{
+color: white;
+text-align: center;
+}
+.lista, .lista1, ol li{
+color: white;
+text-align: center;
+
+}
+.pomera {
+color: white;
+display: inline-block;
+text-align: center;
+}
+.poziv {
+color: white;
+text-align: center;
+}
+.projekti{
+text-align: center;
+color: white;
+}
+
+.tabela, tr, th, td{
+border: 1px solid white;
+color: white;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+}
+.posjedovanje, iframe{
+width: 100%;
+height: 300;
+color: white;}
+
+
