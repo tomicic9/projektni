@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+sitemap: https://github.com/tomicic9/projektni.git
